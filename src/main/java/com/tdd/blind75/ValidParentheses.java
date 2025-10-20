@@ -1,4 +1,4 @@
-package com.microservices.test.blind75;
+package com.tdd.blind75;
 
 import java.util.Stack;
 

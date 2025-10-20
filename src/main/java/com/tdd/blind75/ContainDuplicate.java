@@ -1,4 +1,4 @@
-package com.microservices.test.blind75;
+package com.tdd.blind75;
 
 // https://www.designgurus.io/viewer/document/grokking-the-coding-interview/63d906094c5ef6536969a376
 

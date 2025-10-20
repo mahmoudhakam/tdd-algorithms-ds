@@ -1,5 +1,6 @@
-package com.microservices.test.blind75;
+package com.tdd;
 
+import com.tdd.blind75.BestTimeToBuyAndSellStocks;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
